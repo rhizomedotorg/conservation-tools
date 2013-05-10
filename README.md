@@ -1,7 +1,7 @@
 archive-tools
 =============
 
-Scripts used at Rhizome to archive web-based artwork.
+Tools used at Rhizome to archive web-based artwork.
 
 ### chrome_script.sh
 starts Google Chrome, disables cache, allows popups and Java/other plugins  
