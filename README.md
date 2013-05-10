@@ -1,7 +1,7 @@
 conservation-tools
 ==================
 
-Tools used at Rhizome to archive web-based artwork.
+Tools used at Rhizome to archive web-based artwork. All scripts authored by Alexander Duryee.
 
 ### chrome_script.sh
 starts Google Chrome, disables cache, allows popups and Java/other plugins  
@@ -11,7 +11,8 @@ starts Google Chrome, disables cache, allows popups and Java/other plugins
 processes directories of manifests of files comprising works, generates [WARCs](http://www.digitalpreservation.gov/formats/fdd/fdd000236.shtml)
 - - -
 ### standard.sh
-basic [wget](http://www.gnu.org/software/wget/) script for initial crawls
+basic [wget](http://www.gnu.org/software/wget/) script for initial crawls  
+*make sure to change the WARC header: "Operator"*
 - - -
 ### swffer.sh
 script to process sites using links within Flash objects !experimental!  
